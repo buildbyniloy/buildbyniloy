@@ -2,7 +2,7 @@
   <!-- Animated Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Niloy%20Hakim&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
   
-  <!-- Stable Typing SVG (Emojis removed from URL to prevent GitHub breaking the image) -->
+  <!-- Stable Typing SVG -->
   <a href="https://github.com/buildbyniloy">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI-Powered+Product+Builder;Building+software+with+AI;Building+in+Public" alt="Typing SVG" />
   </a>
@@ -22,6 +22,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
+
+<!-- Cute Coding Cat Animation (Aligned Right) -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="Cute Coding Cat" />
 
 ## 🚀 About Me
 
